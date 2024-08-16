@@ -20,13 +20,13 @@ A React application featuring user authentication and a dashboard interface, sty
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/Prashant-Pipaliya/React-Auth.git
    ```
 
 2. **Navigate into the project directory:**
 
    ```bash
-   cd your-repository
+   cd react-auth-app
    ```
 
 3. **Install dependencies:**
