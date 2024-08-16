@@ -1,0 +1,22 @@
+.register-container {
+  background: linear-gradient(180deg, #b8d8f7, transparent);
+  min-height: 100vh;
+}
+
+.register-form-wrapper {
+  margin: 2rem;
+  background-color: #fff;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  max-width: 100%;
+}
+
+.submit-button {
+  width: 100%;
+}
+
+.login-link {
+  margin-top: 1rem;
+  text-align: center;
+}
