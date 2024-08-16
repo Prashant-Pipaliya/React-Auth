@@ -165,7 +165,7 @@ const Register = () => {
                                         label="Male"
                                         onChange={formik.handleChange}
                                         checked={formik.values.gender === 'male'}
-                                        className="me-3"
+                                        className="me-1"
                                     />
                                     <Form.Check
                                         type="radio"
@@ -174,7 +174,7 @@ const Register = () => {
                                         label="Female"
                                         onChange={formik.handleChange}
                                         checked={formik.values.gender === 'female'}
-                                        className="me-3"
+                                        className="me-1"
                                     />
                                     <Form.Check
                                         type="radio"
@@ -183,7 +183,7 @@ const Register = () => {
                                         label="Other"
                                         onChange={formik.handleChange}
                                         checked={formik.values.gender === 'other'}
-                                        className="me-3"
+                                        className="me-1"
                                     />
                                 </div>
                                 {formik.touched.gender && formik.errors.gender && (
