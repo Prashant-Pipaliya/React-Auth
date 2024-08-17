@@ -145,7 +145,7 @@ const Register = () => {
                                 >
                                     <option value="">Select Country</option>
                                     <option value="USA">USA</option>
-                                    <option value="Canada">Canada</option>
+                                    <option value="India">India</option>
                                     <option value="UK">UK</option>
                                 </Form.Control>
                                 {formik.touched.country && formik.errors.country && (
